@@ -1,5 +1,5 @@
 {
-    "name": "maknz/slack",
+    "name": "crash--/slack",
     "description": "A simple PHP package for sending messages to Slack, with Laravel 4 support",
     "keywords": ["laravel", "slack"],
     "license": "BSD-2-Clause",
